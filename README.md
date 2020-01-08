@@ -40,6 +40,7 @@ By the time you submit this project, you will have covered new ground in, and re
   - 1 API call with Axios and display the data for the user.
 - **Create a `README.md` file that explains your app** to the world.
 - **Recorded video demo** of your application to submit your project.
+- **Deploy application** on github pages. Step are mentioned [here](https://github.com/sei-jed-10/React-App-Deployment-Steps).
 
 ### Necessary Deliverables
 
