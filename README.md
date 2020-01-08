@@ -45,7 +45,7 @@ By the time you submit this project, you will have covered new ground in, and re
 
 Projects are due **Thursday, January 16th, 2020 at 09.00am**!  
 
-Submissions will be submitted on Google Sheet
+Projects will be submitted on [Google Sheet](https://docs.google.com/spreadsheets/d/12EZArlpebL0RunXoHibb1jruWvtWFLldOxFSR3hCkNE/edit#gid=688931934)
 - the recorded video demo 
 - a link to your deployed application 
 - a link to your github repository
